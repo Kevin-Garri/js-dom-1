@@ -5,6 +5,10 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: black;
+}
+
 button {
   margin-left: 85px;
   display: flex;
@@ -25,8 +29,4 @@ button {
 
 .off.active {
   display: none;
-}
-
-body {
-  background-color: black;
 }
